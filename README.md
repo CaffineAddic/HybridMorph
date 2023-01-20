@@ -8,3 +8,8 @@ HybridMorph_FewShots_WeightsLoad & HybridMorph_alphaVar_LoadWeights are the main
 
 
 AlphaVarCSV_visual and FewShotCSV_visualizationLoss are just to comapre losses and see the difference with parameter traning.
+
+
+
+credits
+To the voxelmorph team for the source code link:https://github.com/voxelmorph/voxelmorph
